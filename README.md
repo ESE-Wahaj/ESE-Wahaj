@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/MTariq99/MTariq99/raw/main/assets/github_2.gif" height="20%" width="20%"> <img src="https://github.com/MTariq99/MTariq99/raw/main/assets/github_3.gif" height="20%" width="20%"> </p>
 
 
-<h1 align="center"><b>Hi👋, I'm Muhammad Tariq </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi👋, I'm Muhammad Wahaj </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Backend+Developer,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts;"></a>
@@ -18,10 +18,10 @@
 
 <br>
 
-- A passionate backend developer from Pakistan🇵🇰
+- A passionate FrontEnd developer from Pakistan🇵🇰
 -  Software Engineering Student
-- 📄 Know about my experiences <a href="https://github.com/MTariq99/MTariq99/raw/main/assets/cv.pdf" target="blank">Resume</a>
-   🔭 I’m currently working in <a href="https://www.capregsoft.com/" target="blank">CapregSoft Private Limited</a>
+- 📄 Know about my experiences <a">Resume</a>
+   🔭 I’m currently working in <a">CapregSoft Private Limited</a>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
